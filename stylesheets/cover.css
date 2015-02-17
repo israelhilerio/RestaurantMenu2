@@ -30,7 +30,8 @@ body {
   xbackground-color: #333;
 }
 body {
-  background-image: url("../images/restaurant.jpg");
+  xbackground-image: url("../images/restaurant.jpg");
+  background-color: grey;
   background-size: 100% 100%;
     background-repeat: no-repeat;
   color: #fff;
